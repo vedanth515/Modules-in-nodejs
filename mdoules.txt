@@ -1,0 +1,5 @@
+tyope of modules in nodejs :--
+
+1.local   ( we can create our own modules r customizable modules)
+2.core r inbuilt   ( http, fs, os, path)
+3.third-party  axios , bycrypt, jwt , exprresj , mongoose, cors

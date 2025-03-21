@@ -1,0 +1,23 @@
+{
+  "name": "httpvamsi",
+  "version": "1.0.0",
+  "description": "\"im going to teach http module day1\"",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "'nodejs",
+    "reactjs",
+    "expressjs",
+    "mongodb\""
+  ],
+  "author": "vamsi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "nodemon": "^3.1.9"
+  }
+}

@@ -2,4 +2,15 @@ tyope of modules in nodejs :--
 
 1.local   ( we can create our own modules r customizable modules)
 2.core r inbuilt   ( http, fs, os, path)
-3.third-party  axios , bycrypt, jwt , exprresj , mongoose, cors
+3.third-party  axios , bycrypt, jwt , exprresj , mongoose, cors, uid, date-fs
+
+
+
+20-03-25 :-- 
+
+http module (part-1)
+
+what is webpage vs website?
+what is http?
+what is https?
+wnhat is d/ b/w the http vs https?
